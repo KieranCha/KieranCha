@@ -1,2 +1,2 @@
 Doing Python in IDLE
-For GCSE computer science
+For T level at middlesbrough college
